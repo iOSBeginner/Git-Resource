@@ -11,7 +11,7 @@
 * [Git Tutorial](http://www.tutorialspoint.com/git/index.htm) (tutorialspoint)
 
 ### 簡報教學
-* [Git Tutorial 教學](http://www.slideshare.net/ihower/git-tutorial-13695342) (ihower)
+* [Git Tutorial 教學](http://www.slideshare.net/ihower/git-tutorial-13695342) (ihower) : 這個講很多背後的理論，比較建議已經會使用 Git，然後想了解 Git 背後運作原理的人看。
 * [初心者 Git 上手攻略](http://www.slideshare.net/lkiral/git-34157836) (Lucien Lee)
 * [Git 實務圖解](http://www.slideshare.net/pokaichang72/git-42427674) (Pokai Chang)
 
