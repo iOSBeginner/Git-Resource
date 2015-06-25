@@ -14,6 +14,7 @@
 * [Git Tutorial 教學](http://www.slideshare.net/ihower/git-tutorial-13695342) (ihower) : 這個講很多背後的理論，比較建議已經會使用 Git，然後想了解 Git 背後運作原理的人看。
 * [初心者 Git 上手攻略](http://www.slideshare.net/lkiral/git-34157836) (Lucien Lee)
 * [Git 實務圖解](http://www.slideshare.net/pokaichang72/git-42427674) (Pokai Chang)
+* [Git 版本控管－平行宇宙時光穿梭機](https://speakerdeck.com/neson/git-ban-ben-kong-guan-nil-ping-xing-yu-zhou-shi-guang-chuan-suo-ji) (Neson Chang)
 
 ### 簡易教學
 * [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) 
@@ -36,10 +37,10 @@
 ## 進階
 * [Git 版本控制系統 -- 從微觀到宏觀](http://www.slideshare.net/ihower/git-40877359) (ihower)
 * [Git 風格指南](https://github.com/JuanitoFatas/git-style-guide) 
+* [Git-rebase 小筆記](http://blog.yorkxin.org/posts/2011/07/29/git-rebase/)
 * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/) ([簡體譯文](http://www.juvenxu.com/2010/11/28/a-successful-git-branching-model/)) ([簡體譯文二](http://www.ruanyifeng.com/blog/2012/07/git.html))
 * [打造專屬於你的 Git 工作流程 — Alias、Commands、Hooks](http://tech.mozilla.com.tw/posts/5306/打造專屬於你的-git-工作流程-alias、commands、hooks)
-* [Git-rebase 小筆記](http://blog.yorkxin.org/posts/2011/07/29/git-rebase/)
-
+* [Understanding the Git Workflow](https://sandofsky.com/blog/git-workflow.html)
 
 ## Cheat Sheet
 * [Git Cheat Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md)
